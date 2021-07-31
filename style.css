@@ -30,3 +30,8 @@ body {
     margin:auto;
     display:block;
 }
+
+.form-control{
+    width: 70%;
+    height: 30%;
+} 
